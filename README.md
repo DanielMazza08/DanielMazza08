@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i'm Cristian color="coral"</h1>
+<h1 align="center">Hi 👋, i'm Cristian color=coral </h1>
 <h3 align="center">Frontend Developer in progress...💪</h3>
 
 - 📫 How to reach me **cristianmazza08@gmail.com**
