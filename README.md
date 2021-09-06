@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Cristian</h1>
-<h3 align="center">Desarrollador Frontend en curso...💪</h3>
+<h1 align="center">Hi 👋, i'm Cristian</h1>
+<h3 align="center">Frontend Developer in progress...💪</h3>
 
 - 📫 How to reach me **cristianmazza08@gmail.com**
 
