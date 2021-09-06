@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Cristian</h1>
-<h3 align="center">Un apasionado frontend developer de Argentina</h3>
+<h3 align="center">Desarrollador Frontend en curso...💪</h3>
 
 - 📫 How to reach me **cristianmazza08@gmail.com**
 
